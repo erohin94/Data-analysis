@@ -12,4 +12,4 @@
 
 **Jupyter notebook 5** [Анализ показов и кликов](https://github.com/erohin94/Data-analysis/blob/main/Proekt5.ipynb)
 
-**Jupyter notebook 6** [Анализ данных в браузере](https://github.com/erohin94/Data-analysis/blob/main/Proekt6.ipynb)
+**Jupyter notebook 6** [Анализ данных посещений сайта](https://github.com/erohin94/Data-analysis/blob/main/Proekt6.ipynb)
